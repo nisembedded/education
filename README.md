@@ -42,7 +42,8 @@ Collected every documents that used me for education: books, notes, plans, and o
  - [ ] Experience with controller design (linear/nonlinear/optimal/robust control, LQR, DDP, MPC, etc)
  - [ ] Experience with optimization techniques (linear/quadratic/semidefinite/nonlinear optimization, etc)
  - [ ] Experience with system modeling (kinematics, dynamics, Euler-Lagrange, Newton-Euler, etc)
- - [ ] Expericenc with servo, high perfomance drivers
+ - [ ] Experience with servo, high perfomance drivers
+ - [ ] Experience with Direct MRAC, ADRC and H-infinity contorl methods
  - [ ] Experience with state estimation (sensor fusion, Kalman filters, etc)
  - [ ] Experience with deep learning software (PyTorch, TensorFlow, etc)
  - [ ] Experience with deep reinforcement learning algorithms and software (PPO, TRPO, etc)
