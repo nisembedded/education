@@ -4,7 +4,7 @@ Interdisciplinary training with its focus on Robotics
 
 ## Block 1
 
-- Linear algebra (4)
+- [Linear algebra](linear_algebra.md) (4)
 - Calculus (4)
 - Digital skills for information use (1)
 - Physics I (4)
