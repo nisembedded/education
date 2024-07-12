@@ -48,5 +48,7 @@ Collected every documents that used me for education: books, notes, plans, and o
  - [ ] Experience with deep learning software (PyTorch, TensorFlow, etc)
  - [ ] Experience with deep reinforcement learning algorithms and software (PPO, TRPO, etc)
  - [ ] Experience with geometry processing tools for 3D data manipulation, visualization, and analysis, (Open3D, PCL, CGAL, VTK, etc)
+ - [ ] Experience with IoT and networking systems
 
 [bachelor in robotics engineering](bs_robotics/README.md)
+master in robotics engineering 
