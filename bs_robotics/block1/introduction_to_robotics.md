@@ -10,45 +10,45 @@
 
 1.  Introduction 
 2.  Why study Robotics Engineering
-	a.  Priorities and needs of the European Union
-	b.  where to work
-	c.  where to research
-	d.  How to continue my studies 
+	1.  Priorities and needs of the European Union
+	2.  where to work
+	3.  where to research
+	4.  How to continue my studies 
 3.  Structure of the Degree in Robotics Engineering
-	a.  Objectives and motivations
-	b.  Teaching structure
-	c.  extracurricular activities 
+	1.  Objectives and motivations
+	2.  Teaching structure
+	3.  extracurricular activities 
 4.  What is a robot
-	a.  Origins
-	b.  Definitions
-	c.  Robotics Classification
-		i.  Classification according to structure
-		ii. Classification according to functionalities
-	d.  Most important parts of a robot and. statistics 
+	1.  Origins
+	2.  Definitions
+	3.  Robotics Classification
+		1.  Classification according to structure
+		2. Classification according to functionalities
+	4.  Most important parts of a robot and. statistics 
 5.  What is Robotic Engineering
-	a.  Multidisciplinarity of robotics
-	b.  robotics technologies
-		i.  robot hardware
-		ii. robot software
-		iii. AI in robotics 
+	1.  Multidisciplinarity of robotics
+	2.  robotics technologies
+		1.  robot hardware
+		2. robot software
+		3. AI in robotics 
 6.  Smart robotics
-	a.  Robot design (kinematics and dynamics)
-	b.  Control
-		i.  Introduction
-		ii. Locomotion
-		iii. Navigation
-		iv. Handling
-	v.  Reasoning
-	c.  Perception in robotics
-	d.  robot programming and. Communications in robotics
-	f.  human robot interaction
-	i.  physical interaction ii. non-physical interaction
-	g.  smart decision making
-	h.  ethics in robotics 
+	1.  Robot design (kinematics and dynamics)
+	2.  Control
+		1.  Introduction
+		2. Locomotion
+		3. Navigation
+		4. Handling
+		5.  Reasoning
+	3.  Perception in robotics
+	4.  robot programming and. Communications in robotics
+	5.  human robot interaction
+	6.  physical interaction ii. non-physical interaction
+	7.  smart decision making
+	8.  ethics in robotics 
 7.  Robotics applications
-	a.  industrial applications
-	b.  service applications
-	c.  field applications
+	1.  industrial applications
+	2.  service applications
+	3.  field applications
 
 ## Basic bibliography
 
