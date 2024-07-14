@@ -10,7 +10,7 @@ Interdisciplinary training with its focus on Robotics
 - [Physics I](block1/physics_i.md) (4)
 - [Advanced knowledge of spreadsheets](block1/advanced_knowlege_of_spreadsheets.md) (1)
 - [Introduction to robotics](block1/introduction_to_robotics.md) (2)
-- Programming (4)
+- [Programming](block1/programming.md) (4)
 
 
 ## Block 2
