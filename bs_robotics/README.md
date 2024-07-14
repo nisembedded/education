@@ -7,7 +7,7 @@ Interdisciplinary training with its focus on Robotics
 - [Linear algebra](block1/linear_algebra.md) (4)
 - [Calculus](block1/calculus.md) (4)
 - Digital skills for information use (1) *no defined fully*
-- Physics I (4)
+- [Physics I](block1/physics_i.md) (4)
 - Advanced knowledge of spreadsheets (1)
 - Introduction to robotics (2)
 - Programming (4)
