@@ -16,7 +16,7 @@ Interdisciplinary training with its focus on Robotics
 ## Block 2
 
 - [Mathematics extension](block2/mathematics_extension.md) (4)
-- Algorithms and data structures (4)
+- [Algorithms and data structures](block2/algorithms_and_data_structures.md) (4)
 - Physics II (4)
 - Fundamentals of electrical engineering (4)
 - Skills: Humanitites I (2) *unknown*
