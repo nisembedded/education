@@ -8,16 +8,16 @@ Interdisciplinary training with its focus on Robotics
 - [Calculus](block1/calculus.md) (4)
 - Digital skills for information use (1) *no defined fully*
 - [Physics I](block1/physics_i.md) (4)
-- [Advanced knowledge of spreadsheets](block1/advanced_knowlege_of_spreadsheets.md) (1)
+- [Advanced knowledge of spreadsheets](block1/advanced_knowlege_of_spreadsheets.md) (1) *check for useful*
 - [Introduction to robotics](block1/introduction_to_robotics.md) (2)
-- [Programming](block1/programming.md) (4)
+- [Programming](block1/programming.md) (4) *needs to redesign*
 
 
 ## Block 2
 
 - [Mathematics extension](block2/mathematics_extension.md) (4)
-- [Algorithms and data structures](block2/algorithms_and_data_structures.md) (4)
-- Physics II (4)
+- [Algorithms and data structures](block2/algorithms_and_data_structures.md) (4) *needs to redesign*
+- [Physics II](block2/physics_ii.md) (4)
 - Fundamentals of electrical engineering (4)
 - Skills: Humanitites I (2) *unknown*
 - Writing and communication skills (2)
