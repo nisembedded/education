@@ -27,7 +27,7 @@ Interdisciplinary training with its focus on Robotics
 
 - Design of telematic systems (4) *needs to redesign*
 - Graphical expression (4) *needs to redesign*
-- Fundamentals of electronic engineering (4)
+- [Fundamentals of electronic engineering](block3/fundamentals_of_electronic_engineering.md) (4)
 - Control engineering I (4) *needs to update*
 - Signals and systems (4) *needs to redesign*
 
