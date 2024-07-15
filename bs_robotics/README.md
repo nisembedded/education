@@ -20,7 +20,7 @@ Interdisciplinary training with its focus on Robotics
 - [Physics II](block2/physics_ii.md) (4)
 - [Fundamentals of electrical engineering](block2/fundamentals_of_electrical_engineering.md) (4)
 - Skills: Humanitites I (2) *unknown*
-- Writing and communication skills (2)
+- Writing and communication skills (2) *needs to analyse*
 
 
 ## Block 3
