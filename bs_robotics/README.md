@@ -49,7 +49,7 @@ Interdisciplinary training with its focus on Robotics
 - Fundamentals of digital communications (2)
 - Skills: Humanites II (2) *unknown*
 - [Electrical machines](block5/electrical_machines.md) (2)
-- Microprocessors and microcontrollers (4)
+- [Microprocessors and microcontrollers](microprocessors_and_microcontrollers.md) (4)
 - Robot programming (4) *no defined fully*
 - Intelligent and decision-making in robotics (2)
 
