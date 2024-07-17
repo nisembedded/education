@@ -33,7 +33,7 @@ Collected every documents that used me for education: books, notes, plans, and o
  - [ ] Familiarity with Realtime OS and RT frameworks
  - [ ] Familiarity with harware debug and analysis tools (Multimeter, Oscilloscope, Logic/Protocol analyzer, Patter Generator, Power Suppier)
  - [ ] Experience deploying and debugging software on real robots or hardware systems
- - [x] Experience working with Ubuntu and version control systems such as git
+ - [ ] Experience working with Ubuntu and version control systems such as git
  - [ ] Excellent communication skills to effectively collaborate within team using agile development (English proficiency is a requirement for this position)
  - [ ] Experience with Docker, cloud computing, or similar applications
  - [ ] Experience with data processing, logging, and visualization tools
