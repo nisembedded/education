@@ -58,8 +58,8 @@ Interdisciplinary training with its focus on Robotics
 
 - Industrial automation (4) *no defined fully*
 - Control engineering II (4) *needs to update*
-- Matherials for robots (2)
-- Networks and communication protocols (4)
+- [Matherials for robots](matherials_for_robots.md) (2)
+- [Networks and communication protocols](networks_and_communication_protocols.md) (4)
 - Strenght of materials (2) *no defined fully*
 - Computer vision (4)
 
