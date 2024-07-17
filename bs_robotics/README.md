@@ -34,7 +34,7 @@ Interdisciplinary training with its focus on Robotics
 
 ## Block 4
 
-- Statistics (4)
+- [Statistics](block4/statistics.md) (4)
 - Introduction to engineering management (4)
 - Fundamentals of mechanical engineering (4)
 - Electronic instrumentation (2)
