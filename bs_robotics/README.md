@@ -37,7 +37,7 @@ Interdisciplinary training with its focus on Robotics
 - [Statistics](block4/statistics.md) (4)
 - Introduction to engineering management (4) *fail state*
 - Fundamentals of mechanical engineering (4) *needs to redesign*
-- Electronic instrumentation (2)
+- [Electronic instrumentation](block4/electronic_instrumentation.md) (2)
 - Industrial robotics (4) *need to find simulators and manuals*
 - Real-time systems (2) *needs to update*
 
