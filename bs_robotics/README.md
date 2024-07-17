@@ -61,7 +61,7 @@ Interdisciplinary training with its focus on Robotics
 - [Matherials for robots](matherials_for_robots.md) (2)
 - [Networks and communication protocols](networks_and_communication_protocols.md) (4)
 - Strenght of materials (2) *no defined fully*
-- Computer vision (4)
+- [Computer vision](computer_vision.md) (4)
 
 
 ## Block 7
