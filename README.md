@@ -28,7 +28,7 @@ Collected every documents that used me for education: books, notes, plans, and o
  - [ ] Familiarity with MATLAB, Simulink and other plugins of control engineering and data processing includes DSP and filter analysis
  - [ ] Familiarity with theoretical and applied mechanics
  - [ ] Familiarity with embedded system with/without baremetal development
- - [ ] Familiarity with MPU/MCU (stm32, nxt, etc) and their peripherals (GPIO, ADC, DAC, PWM, UART/USART, SPI, I2C, CAN, ETH)
+ - [ ] Familiarity with MPU/MCU (stm32, nxp, etc) and their peripherals (GPIO, ADC, DAC, PWM, UART/USART, SPI, I2C, CAN, ETH)
  - [ ] Familiarity with relevant sensor modalities (IMU, LiDAR, cameras, etc) and actuation systems
  - [ ] Familiarity with Realtime OS and RT frameworks
  - [ ] Familiarity with harware debug and analysis tools (Multimeter, Oscilloscope, Logic/Protocol analyzer, Patter Generator, Power Suppier)
