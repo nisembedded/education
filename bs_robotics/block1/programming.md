@@ -47,7 +47,7 @@ None
 
 ## Basic bibliography
 
-- Programming in C++ for Engineering and Science
+- Larry Nyhoff, Programming in C++ for Engineering and Science
 
 ## Additional bibliography
 
