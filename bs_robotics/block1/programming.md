@@ -54,5 +54,3 @@ None
 
 - Walter Savitch, Pearson Problem Solving with C++ 7th Ed
 - Stephen Prata, C++ Primer Plus
-
--
