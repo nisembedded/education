@@ -48,6 +48,7 @@ None
 ## Basic bibliography
 
 - Larry Nyhoff, Programming in C++ for Engineering and Science
+- Bjarne Stroustrup, A Tour of C++
 
 ## Additional bibliography
 
