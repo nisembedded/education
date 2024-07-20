@@ -38,6 +38,7 @@ Collected every documents that used me for education: books, notes, plans, and o
  - [ ] Experience with Docker, cloud computing, or similar applications
  - [ ] Experience with data processing, logging, and visualization tools
  - [ ] Experience with toolkits/middleware such as ROS/ROS2, gRPC, LCM
+ - [ ] Experience with Movelt and Mujoco simulation environments
  - [ ] Experience with trajectory optimization, obstacle/collision avoidance, feedback control systems
  - [ ] Experience with controller design (linear/nonlinear/optimal/robust control, LQR, DDP, MPC, etc)
  - [ ] Experience with optimization techniques (linear/quadratic/semidefinite/nonlinear optimization, etc)
