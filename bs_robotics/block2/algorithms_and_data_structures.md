@@ -7,17 +7,15 @@
 
 ## Description of contents
 
-1. Abstract Data Type
-2.  Linear Abstract Data Types: stacks, queues, linked lists. 
-3.  Complexity of Algorithms.
-4.  Recursive Algorithms. 
-5.  Trees
-6.  Graphs.
-7.  Divide and Conquer.
+1. Fundamentals
+2. Sorting
+3. Searching
+4. Graphs
+5. Strings
 
 ## Basic bibliography
 
-- Karumanchi, N. Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles.
+- Algorithms-4th-Edition Robert Sedgewick
 
 ## Additional bibliography
 
