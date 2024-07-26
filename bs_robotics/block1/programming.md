@@ -23,6 +23,5 @@ None
 
 ## Additional bibliography
 
-- Larry Nyhoff, Programming in C++ for Engineering and Science
 - Walter Savitch, Pearson Problem Solving with C++ 7th Ed
 - Stephen Prata, C++ Primer Plus
