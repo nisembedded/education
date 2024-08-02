@@ -19,7 +19,7 @@ Physics at the high school level
 
 ## Basic bibliography
 
-- Serway & Jewett. Physics for Science and Engineering.
+- Serway & Jewett. Physics for Scientist and Engineers.
 - Tipler & Mosca. Physics for Scientists and Engineers.
 
 ## Additional bibliography
