@@ -21,6 +21,7 @@ Collected every documents that used me for education: books, notes, plans, and o
 
 ## Desired qualifications
  - [ ] 5+ years of experience in software development in C/C++ and Python
+ - [ ] Experience with Eugen, NumPy and other math libraries
  - [ ] 5+ years of experience developing robotic systems or relevant software/hardware systems
  - [ ] Proficient understanding of the building blocks comprising a robotics software stack such as state estimation, localization and mapping, navigation, motion planning, control, and simulation
  - [ ] Proficient understanding of electronics/pcb design
