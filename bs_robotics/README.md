@@ -19,7 +19,6 @@ Interdisciplinary training with its focus on Robotics
 - [Algorithms and data structures](block2/algorithms_and_data_structures.md) (4)
 - [Physics II](block2/physics_ii.md) (4)
 - [Fundamentals of electrical engineering](block2/fundamentals_of_electrical_engineering.md) (4)
-- Skills: Humanitites I (2) *unknown*
 - Writing and communication skills (2) *needs to analyse*
 
 
@@ -47,7 +46,6 @@ Interdisciplinary training with its focus on Robotics
 - Sensors and actuators for robotics (2) *not defined fully*
 - Automatic machine learning (2) *needs to update*
 - Fundamentals of digital communications (2)
-- Skills: Humanites II (2) *unknown*
 - [Electrical machines](block5/electrical_machines.md) (2)
 - [Microprocessors and microcontrollers](microprocessors_and_microcontrollers.md) (4)
 - Robot programming (4) *no defined fully*
@@ -68,7 +66,6 @@ Interdisciplinary training with its focus on Robotics
 
 - Robot's control architectures (2) *no defined fully*
 - Cybersecurity in robotics (2) *no defined fully*
-- Soft Skills (2) *unknown*
 - Human-robot interraction (2) *no defined fully*
 - Collaborative robots (2) *no defined fully*
 - Flexible production systems (2) *no defined fully*
