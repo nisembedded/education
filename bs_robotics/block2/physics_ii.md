@@ -68,6 +68,7 @@
 
 ## Basic bibliography
 
+- Serway & Jewett. Physics for Scientist and Engineers.
 - Tipler & Mosca. Physics for Scientists and Engineers.
 
 ## Additional bibliography
