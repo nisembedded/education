@@ -19,12 +19,12 @@ Interdisciplinary training with its focus on Robotics
 - [Algorithms and data structures](block2/algorithms_and_data_structures.md) (4)
 - [Physics II](block2/physics_ii.md) (4)
 - [Fundamentals of electrical engineering](block2/fundamentals_of_electrical_engineering.md) (4)
-- [Writing and communication skills](writing_and_communication_skills.md) (2)
+- [Writing and communication skills](block2/writing_and_communication_skills.md) (2)
 
 
 ## Block 3
 
-- Design of telematic systems (4) *needs to redesign*
+- [Design of telematic systems](block3/design_of_telematic_systems.md) (4)
 - Graphical expression (4) *needs to redesign*
 - [Fundamentals of electronic engineering](block3/fundamentals_of_electronic_engineering.md) (4)
 - Control engineering I (4) *needs to update*
