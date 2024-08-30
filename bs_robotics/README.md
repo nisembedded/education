@@ -37,7 +37,7 @@ Interdisciplinary training with its focus on Robotics
 - [Fundamentals of mechanical engineering](block4/fundamentals_of_mechanical_engineering.md) (4)
 - [Electronic instrumentation](block4/electronic_instrumentation.md) (2)
 - [Industrial robotics](block4/industrial_robotics.md) (4)
-- Real-time systems (2) *needs to update*
+- [Real-time systems](block4/real_time_systems.md) (2)
 
 
 ## Block 5
