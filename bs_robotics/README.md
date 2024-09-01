@@ -44,7 +44,7 @@ Interdisciplinary training with its focus on Robotics
 
 - [Sensors and actuators for robotics](block5/sensors_and_actuators_for_robotics.md) (2)
 - [Automatic machine learning](block5/automatic_machine_learning.md) (2)
-- Fundamentals of digital communications (2)
+- [Fundamentals of digital communications](block5/fundamentals_of_digital_communications.md) (2)
 - [Electrical machines](block5/electrical_machines.md) (2)
 - [Microprocessors and microcontrollers](microprocessors_and_microcontrollers.md) (4)
 - [Robot programming](block5/robot_programming.md) (4)
