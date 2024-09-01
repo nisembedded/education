@@ -48,7 +48,6 @@ Interdisciplinary training with its focus on Robotics
 - [Electrical machines](block5/electrical_machines.md) (2)
 - [Microprocessors and microcontrollers](microprocessors_and_microcontrollers.md) (4)
 - [Robot programming](block5/robot_programming.md) (4)
-- [Intelligent and decision-making in robotics](block5/intelligent_and_decision_making_in_robotics.md) (2)
 
 
 ## Block 6
@@ -59,6 +58,7 @@ Interdisciplinary training with its focus on Robotics
 - [Networks and communication protocols](networks_and_communication_protocols.md) (4)
 - Strenght of materials (2) *no defined fully*
 - [Computer vision](computer_vision.md) (4)
+- [Intelligent and decision-making in robotics](block6/intelligent_and_decision_making_in_robotics.md) (2)
 
 
 ## Block 7
