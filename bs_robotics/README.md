@@ -47,7 +47,7 @@ Interdisciplinary training with its focus on Robotics
 - Fundamentals of digital communications (2)
 - [Electrical machines](block5/electrical_machines.md) (2)
 - [Microprocessors and microcontrollers](microprocessors_and_microcontrollers.md) (4)
-- Robot programming (4) *no defined fully*
+- [Robot programming](block5/robot_programming.md) (4)
 - Intelligent and decision-making in robotics (2)
 
 
