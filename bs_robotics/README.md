@@ -48,7 +48,7 @@ Interdisciplinary training with its focus on Robotics
 - [Electrical machines](block5/electrical_machines.md) (2)
 - [Microprocessors and microcontrollers](microprocessors_and_microcontrollers.md) (4)
 - [Robot programming](block5/robot_programming.md) (4)
-- Intelligent and decision-making in robotics (2)
+- [Intelligent and decision-making in robotics](block5/intelligent_and_decision_making_in_robotics.md) (2)
 
 
 ## Block 6
