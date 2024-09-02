@@ -56,7 +56,7 @@ Interdisciplinary training with its focus on Robotics
 - [Control engineering II](block6/control_engineering_ii.md) (4)
 - [Matherials for robots](matherials_for_robots.md) (2)
 - [Networks and communication protocols](networks_and_communication_protocols.md) (4)
-- Strenght of materials (2) *no defined fully*
+- [Strength of materials](block6/strength_of_materials.md) (2)
 - [Computer vision](computer_vision.md) (4)
 - [Intelligent and decision-making in robotics](block6/intelligent_and_decision_making_in_robotics.md) (2)
 
