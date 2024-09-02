@@ -52,7 +52,7 @@ Interdisciplinary training with its focus on Robotics
 
 ## Block 6
 
-- Industrial automation (4) *no defined fully*
+- [Industrial automation](block6/industrial_automation.md) (4)
 - [Control engineering II](block6/control_engineering_ii.md) (4)
 - [Matherials for robots](matherials_for_robots.md) (2)
 - [Networks and communication protocols](networks_and_communication_protocols.md) (4)
