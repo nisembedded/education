@@ -67,7 +67,7 @@ Interdisciplinary training with its focus on Robotics
 - [Cybersecurity in robotics](block7/cybersecurity_in_robotics.md) (2)
 - [Human-robot interraction](block7/human_robot_interraction.md) (2)
 - [Collaborative robots](block7/collaborative_robots.md) (2)
-- Flexible production systems (2) *no defined fully*
+- [Flexible production systems](block7/flexible_production_systems.md) (2)
 - Soft robotics (2) *no defined fully*
 - Project in robotics engineering (2) *no defined fully*
 
