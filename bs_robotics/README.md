@@ -69,7 +69,6 @@ Interdisciplinary training with its focus on Robotics
 - [Collaborative robots](block7/collaborative_robots.md) (2)
 - [Flexible production systems](block7/flexible_production_systems.md) (2)
 - [Soft robotics](block7/soft_robotics.md) (2)
-- Project in robotics engineering (2) *no defined fully*
 
 ## Block 7 Optional (4)
 
