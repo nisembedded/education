@@ -16,6 +16,6 @@
 
 ## Basic bibliography
 
-- James F. Shackelford. Introduction to materials science for engineers. 
+- James F. Shackelford. Introduction to materials science for engineers.
 
 ## Additional bibliography

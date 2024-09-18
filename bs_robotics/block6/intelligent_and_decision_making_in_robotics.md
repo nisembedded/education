@@ -23,4 +23,4 @@
 
 - Reinforcement Learning R S Sutton A G Barto
 - Advances and Applications in Nonlinear Control Systems
-- The Control Systems Handbook Control System Advanced Methods, Second Edition 
+- The Control Systems Handbook Control System Advanced Methods, Second Edition

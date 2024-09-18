@@ -16,6 +16,6 @@
 
 ## Basic bibliography
 
-- Kurose, Ross. Computer Networking. Pearson Education 
+- Kurose, Ross. Computer Networking. Pearson Education
 
 ## Additional bibliography

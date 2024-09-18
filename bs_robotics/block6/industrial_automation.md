@@ -30,5 +30,3 @@
 - Industrical Atomation and Robotics J.R Westcott A.K Gupta S.K. Arora
 
 ## Additional bibliography
-
-- 

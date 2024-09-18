@@ -26,5 +26,3 @@
 - Realtime Motion Planning for Manipulator Robots under Dynamic Environments
 
 ## Additional bibliography
-
-- 
