@@ -20,4 +20,3 @@
 - D. G. Zill, W. S. Wright. Differential equations with boundary-value problems.
 
 ## Additional bibliography
-

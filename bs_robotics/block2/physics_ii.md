@@ -35,7 +35,7 @@
     1. Dielectrics materials and dielectric constant.
     2. Definition of a capacitor.
     3. Calculation of capacitance.
-    4. Combination of capacitors. 
+    4. Combination of capacitors.
     5. Capacitors with dielectrics.
     6. Breakdown voltage. Storing energy in a capacitor.
 6. Electric current
@@ -63,7 +63,7 @@
     1. Displacement current: Corrected Gauss´s law for magnetism.
     2. Completed Maxwell's equations.
     3. Introduction to oscillatory movement. Armonic waves. One-dimension wave equation.
-    4. Plane electromagnetic waves. Energy of an electromagnetic wave. 
+    4. Plane electromagnetic waves. Energy of an electromagnetic wave.
 
 ## Basic bibliography
 

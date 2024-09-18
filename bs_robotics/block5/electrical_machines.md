@@ -10,14 +10,14 @@
 
 1. Magnetic circuits
     1. Introduction to magnetic fields
-    2. Magnetic circuits in DC 
+    2. Magnetic circuits in DC
     3. Magnetic circuits with time dependence excitation
 2. Magnetic energy
     1. Magnetic losses
-    2. Energy and coenergy 
+    2. Energy and coenergy
 3. Equivalent circuit of coil with magnetic core
 4. Electromechanical-energy conversion principles
-    1. Magnetic energy in moving cores 
+    1. Magnetic energy in moving cores
     2. Mechanical energy of a linear system
     3. Determination of magnetic force and torque from energy
     4. Determination of magnetic force and torque from coenergy
