@@ -1,8 +1,6 @@
-### Cybersecurity in Robotics
+# Cybersecurity in Robotics
 
 ## Requirement
-
-
 
 ## Description of contents
 
@@ -21,5 +19,3 @@
 - Robotics and AI for Cybersecurity and Critical -- Nadia Nedjah (editor), Ahmed A Abd El-Latif (editor), Brij
 
 ## Additional bibliography
-
-- 

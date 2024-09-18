@@ -1,4 +1,4 @@
-### Statistics
+# Statistics
 
 ## Requirement
 
@@ -51,5 +51,3 @@
 - MONTGOMERY, D.C., RUNGER, G.C. Applied Statistics and Probability for Engineers.
 
 ## Additional bibliography
-
--

@@ -1,4 +1,4 @@
-### Electrical machines
+# Electrical machines
 
 ## Requirement
 
@@ -32,7 +32,7 @@
 7. Synchronous motors
     1. Synchronous motors basis
     2. Speed control in synchronous motors
-    3. Brushless DC (BLDC) motors 
+    3. Brushless DC (BLDC) motors
 
 ## Basic bibliography
 

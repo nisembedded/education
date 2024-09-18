@@ -1,18 +1,16 @@
-### Biomedial applications of robotics
+# Biomedial applications of robotics
 
 ## Requirement
-
-
 
 ## Description of contents
 
 1. Introduction
 2. Robots for biomedical research
 3. Surgery robotics, teleoperation, cooperative manipulation
-5. Robotics prosthetics
-6. Neuro-rehabilitation robotics
-7. Medical imaging
-8. Biomimetic robotics
+4. Robotics prosthetics
+5. Neuro-rehabilitation robotics
+6. Medical imaging
+7. Biomimetic robotics
 
 ## Basic bibliography
 
@@ -20,5 +18,3 @@
 - Springer Handbook of Robotics
 
 ## Additional bibliography
-
-- 

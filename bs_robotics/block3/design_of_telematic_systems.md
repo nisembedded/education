@@ -1,4 +1,4 @@
-### Design of telematic systems
+# Design of telematic systems
 
 ## Requirement
 
@@ -24,5 +24,3 @@
 - Java Network Programming, 4th Edition
 
 ## Additional bibliography
-
--

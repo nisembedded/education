@@ -1,8 +1,6 @@
-### Flexible production systems
+# Flexible production systems
 
 ## Requirement
-
-
 
 ## Description of contents
 
@@ -22,5 +20,3 @@
 - Additive Manufacturing Technologies
 
 ## Additional bibliography
-
-- 

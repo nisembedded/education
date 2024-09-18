@@ -1,4 +1,4 @@
-### Signals and systems
+# Signals and systems
 
 ## Requirement
 
@@ -15,8 +15,8 @@
 4. Fourier series in continuous and discrete time.
 5. Fourier transform in continuous and discrete time. Fast Fourier transform.
 6. Generalization of the Fourier transform:
-	1. Laplace transform of continuous-time signals and its properties.
-	2. Z transform of discrete time signals and its properties.
+    1. Laplace transform of continuous-time signals and its properties.
+    2. Z transform of discrete time signals and its properties.
 
 ## Basic bibliography
 
@@ -26,5 +26,3 @@
 - The Scientist and Engineer's Guide to DSP
 
 ## Additional bibliography
-
--

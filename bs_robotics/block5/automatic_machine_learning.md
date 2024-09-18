@@ -1,4 +1,4 @@
-### Automatic machine learning
+# Automatic machine learning
 
 ## Requirement
 

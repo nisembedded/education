@@ -1,4 +1,4 @@
-### Algorithms and data structures
+# Algorithms and data structures
 
 ## Requirement
 
@@ -18,5 +18,3 @@
 - Algorithms-4th-Edition Robert Sedgewick
 
 ## Additional bibliography
-
--

@@ -1,4 +1,4 @@
-### Fundamentals of electronic engineering
+# Fundamentals of electronic engineering
 
 ## Requirement
 
@@ -37,5 +37,3 @@ TOPIC 5. Digital electronic subsystems and analog-to-digital (A/D) and digital-t
 - Thomas L. Floyd. Electronic Devices.
 
 ## Additional bibliography
-
--

@@ -1,8 +1,6 @@
-### Collaborative Robots
+# Collaborative Robots
 
 ## Requirement
-
-
 
 ## Description of contents
 
@@ -21,5 +19,3 @@
 - Modern Robotics Mechanics, Planning, and Control
 
 ## Additional bibliography
-
-- 

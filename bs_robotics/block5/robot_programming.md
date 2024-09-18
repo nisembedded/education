@@ -1,8 +1,6 @@
-### Robot programming
+# Robot programming
 
 ## Requirement
-
-- 
 
 ## Description of contents
 
@@ -22,5 +20,3 @@
 - Learning ROS for Robotics Programming - Second Edition
 
 ## Additional bibliography
-
-- 

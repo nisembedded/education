@@ -1,4 +1,4 @@
-### Matherials for robots
+# Matherials for robots
 
 ## Requirement
 
@@ -19,5 +19,3 @@
 - James F. Shackelford. Introduction to materials science for engineers. 
 
 ## Additional bibliography
-
-- 

@@ -1,4 +1,4 @@
-### Networks and communication protocols
+# Networks and communication protocols
 
 ## Requirement
 
@@ -19,5 +19,3 @@
 - Kurose, Ross. Computer Networking. Pearson Education 
 
 ## Additional bibliography
-
-- 

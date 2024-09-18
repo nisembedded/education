@@ -1,8 +1,6 @@
-### Industrial automation
+# Industrial automation
 
 ## Requirement
-
-
 
 ## Description of contents
 

@@ -1,4 +1,4 @@
-### Physics I
+# Physics I
 
 ## Requirement
 
@@ -23,5 +23,3 @@ Physics at the high school level
 - Tipler & Mosca. Physics for Scientists and Engineers.
 
 ## Additional bibliography
-
--

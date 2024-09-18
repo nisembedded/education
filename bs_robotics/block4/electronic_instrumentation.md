@@ -1,4 +1,4 @@
-### Electronic instrumentation
+# Electronic instrumentation
 
 ## Requirement
 
@@ -29,5 +29,3 @@
 - Fraden J. Handbook of modern sensors.
 
 ## Additional bibliography
-
--

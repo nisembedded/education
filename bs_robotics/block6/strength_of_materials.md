@@ -1,8 +1,6 @@
-### Strength of materials
+# Strength of materials
 
 ## Requirement
-
-
 
 ## Description of contents
 
@@ -24,5 +22,3 @@
 - Mechanics and Strength of Meterial vito Dias da Silva
 
 ## Additional bibliography
-
-- 

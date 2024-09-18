@@ -1,8 +1,6 @@
-### Intelligent and decision-making in robotics
+# Intelligent and decision-making in robotics
 
 ## Requirement
-
-- 
 
 ## Description of contents
 

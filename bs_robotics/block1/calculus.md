@@ -1,4 +1,4 @@
-### Calculus
+# Calculus
 
 ## Requirement
 
@@ -11,8 +11,8 @@ None
 3. Elementary functions. Continuity.
 4. Differentiability in one variable.
 5. Differentiability of several variables: Partial derivatives, Jacobian matrix, chain rule, Taylor's Theorem.
-6. Local extrema 
-7. Integration in one variable 
+6. Local extrema
+7. Integration in one variable
 8. Multiple integration
 
 ## Basic bibliography

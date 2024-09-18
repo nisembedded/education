@@ -1,4 +1,4 @@
-### Real-time systems
+# Real-time systems
 
 ## Requirement
 
@@ -6,14 +6,13 @@
 
 ## Description of contents
 
-
-1. Introduction to real-time systems. 
-2. Concurrent Programming. 
-3. Real-time operating systems. Characteristics. 
-4. Methods-time measurement. 
-5. Fault-Tolerant Real-Time Systems. 
-6. Planning and task analysis. 
-7. Response time. 
+1. Introduction to real-time systems.
+2. Concurrent Programming.
+3. Real-time operating systems. Characteristics.
+4. Methods-time measurement.
+5. Fault-Tolerant Real-Time Systems.
+6. Planning and task analysis.
+7. Response time.
 8. Real-time algorithms
 
 ## Basic bibliography

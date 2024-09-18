@@ -1,4 +1,4 @@
-### Microprocessors and microcontrollers
+# Microprocessors and microcontrollers
 
 ## Requirement
 
@@ -24,5 +24,3 @@
 - Hennessy, John L ; Patterson, David A. Computer Architecture: A Quantitative Approach
 
 ## Additional bibliography
-
-- 
