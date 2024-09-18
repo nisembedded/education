@@ -74,7 +74,7 @@ Interdisciplinary training with its focus on Robotics
 
 - [Biomedial applications of robotics](block7optional/biomedial_applications_of_robotics.md) (2)
 - [Wireless sensor networks](block7optional/wireless_sensor_networks.md) (2)
-- Data analitics (2) *no defined fully*
+- [Data analitics](block7optional/data_analitics.md) (2)
 - Mini-robots laboratory (2) *no defined fully*
 - Professional internship (4) *unknown*
 
