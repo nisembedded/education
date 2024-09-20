@@ -70,14 +70,12 @@ Interdisciplinary training with its focus on Robotics
 - [Wireless sensor networks](block7optional/wireless_sensor_networks.md) (2)
 - [Data analitics](block7optional/data_analitics.md) (2)
 - [Mini-robots laboratory](block7optional/mini_robots_laboratory.md) (2)
-- Professional internship (4) *unknown*
 
 ## Block 8
 
 - Ethics and social implication of robotics (2) *no defined fully*
 - Mobile manipulators (2) *no defined fully*
 - Social robotics (2) *no defined fully*
-- Bachelor thesis (8) *unknown*
 
 ## Block 8 Optional (6)
 
@@ -85,4 +83,3 @@ Interdisciplinary training with its focus on Robotics
 - Industrial internet of things (2) *no defined fully*
 - Brain maichine interfaces (2) *no defined fully*
 - Battery storage for robots (2) *no defined fully*
-- Labor legal framework of robotics (2) *unknown*
