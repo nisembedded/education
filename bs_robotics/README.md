@@ -73,12 +73,12 @@ Interdisciplinary training with its focus on Robotics
 
 ## Block 8
 
-- Mobile manipulators (2) *no defined fully*
+- [Mobile manipulators](block8/mobile_manipulators.md) (2)
 - [Social robotics](block8/social_robotics.md) (2)
 
 ## Block 8 Optional (6)
 
-- Aerospace applications of robotics (2) *needs to update*
+- [Aerospace applications of robotics](block8optional/aerospace_applications_of_robotics.md) (2)
 - Industrial internet of things (2) *no defined fully*
 - Brain maichine interfaces (2) *no defined fully*
 - Battery storage for robots (2) *no defined fully*
