@@ -73,7 +73,6 @@ Interdisciplinary training with its focus on Robotics
 
 ## Block 8
 
-- Ethics and social implication of robotics (2) *no defined fully*
 - Mobile manipulators (2) *no defined fully*
 - Social robotics (2) *no defined fully*
 
