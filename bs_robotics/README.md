@@ -74,7 +74,7 @@ Interdisciplinary training with its focus on Robotics
 ## Block 8
 
 - Mobile manipulators (2) *no defined fully*
-- Social robotics (2) *no defined fully*
+- [Social robotics](block8/social_robotics.md) (2)
 
 ## Block 8 Optional (6)
 
