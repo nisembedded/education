@@ -80,5 +80,5 @@ Interdisciplinary training with its focus on Robotics
 
 - [Aerospace applications of robotics](block8optional/aerospace_applications_of_robotics.md) (2)
 - [Industrial internet of things](block8optional/industrial_internet_of_things.md) (2)
-- Brain maichine interfaces (2) *no defined fully*
+- [Brain machine interfaces](block8optional/brain_machine_intefraces.md) (2)
 - Battery storage for robots (2) *no defined fully*
