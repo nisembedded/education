@@ -55,4 +55,4 @@ Collected every documents that used me for education: books, notes, plans, and o
 
 [bachelor in robotics engineering](bs_robotics/README.md)
 
-master in robotics engineering
+[master in robotics engineering](ms_robotics/README.md)
