@@ -79,6 +79,6 @@ Interdisciplinary training with its focus on Robotics
 ## Block 8 Optional (6)
 
 - [Aerospace applications of robotics](block8optional/aerospace_applications_of_robotics.md) (2)
-- Industrial internet of things (2) *no defined fully*
+- [Industrial internet of things](block8optional/industrial_internet_of_things.md) (2)
 - Brain maichine interfaces (2) *no defined fully*
 - Battery storage for robots (2) *no defined fully*
