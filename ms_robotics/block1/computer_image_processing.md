@@ -2,8 +2,6 @@
 
 ## Requirement
 
-*need to describe*
-
 ## Description of contents
 
 1. Introduction
