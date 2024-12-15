@@ -24,7 +24,7 @@ Interdisciplinary training with its focus on Robotics
 - Unmanned areial vechicles (UAVs)/drones (2)
 - Field Robots (2)
 - Advanced industrial robotics (2)
-- Mediacal and health robotics (2)
+- Medical and health robotics (2)
 - Social and domestic robots (2)
 
 ## Block 4
