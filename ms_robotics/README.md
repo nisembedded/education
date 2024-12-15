@@ -8,7 +8,7 @@ Interdisciplinary training with its focus on Robotics
 - [Intelligent autonomous robots](block1/intelligent_autonomous_robots.md) (4)
 - [Computer image processing](block1/computer_image_processing.md) (4)
 - [Introduction to robot planning](block1/introduction_to_robot_planning.md) (2)
-- Robot Operating Systems (2)
+- [Robot Operating Systems](block1/robot_operating_systems.md) (2)
 
 ## Block 2
 
