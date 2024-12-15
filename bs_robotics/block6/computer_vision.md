@@ -6,7 +6,7 @@
 
 ## Description of contents
 
-1- Introductory Concepts:  Introduction to Image, Projective geometry, Images as functions, Image processing, Color Space, 3D Vision
+1. Introductory Concepts:  Introduction to Image, Projective geometry, Images as functions, Image processing, Color Space, 3D Vision
 2. Image Histograms & Point Operations:  Image Histograms, Image Brightness, Point Operations, Dynamic Range, Inverting Images, Thresholding, and Histogram Equalization
 3. Image Filtering:  Types of image transformations. Point image processing., Linear shift-invariant image filtering. Convolution and Correlation. Image gradients.
 4. Image Pyramids and Frequency Domain:  Image downsampling. Aliasing. Gaussian image pyramid. Laplacian image pyramid. Fourier series. Frequency domain. Fourier transform. Frequency-domain filtering. Revisiting sampling.
