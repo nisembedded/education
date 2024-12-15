@@ -29,9 +29,9 @@ Interdisciplinary training with its focus on Robotics
 
 ## Block 4
 
-- Automatization of industrial systems
-- Robotic telepresence and teleoperation
-- Handling
-- Mobile robots
-- 3D perception
-- Robot simulators
+- Automatization of industrial systems (4)
+- Robotic telepresence and teleoperation (2)
+- Handling (2)
+- Mobile robots (4)
+- 3D perception (2)
+- Robot simulators (2)
