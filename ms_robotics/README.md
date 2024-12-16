@@ -14,7 +14,7 @@ Interdisciplinary training with its focus on Robotics
 
 - [Industrial robotics](block2/industrial_robotics.md) (4)
 - [Modeling and simulations of dynamic systems](block2/modeling_and_simulations_of_dynamic_systems.md) (2)
-- Introduction to robot learning
+- [Introduction to robot learning](block2/introduction_to_robot_learning.md) (2)
 
 ## Block 3
 
