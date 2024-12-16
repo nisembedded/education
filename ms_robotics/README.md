@@ -12,7 +12,7 @@ Interdisciplinary training with its focus on Robotics
 
 ## Block 2
 
-- Industrial robotics (4)
+- [Industrial robotics](block2/industrial_robotics.md) (4)
 - Modeling and simulations of dynamic systems (2)
 - Introduction to robot learning
 
