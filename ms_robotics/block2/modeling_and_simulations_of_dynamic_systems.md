@@ -20,3 +20,5 @@
 - Modeling and Analysis of Dynamic Systems, Third Edition
 
 ## Additional bibliography
+
+- System Simulation Techniques with MATLAB and Simulink
