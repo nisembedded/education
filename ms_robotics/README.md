@@ -19,7 +19,7 @@ Interdisciplinary training with its focus on Robotics
 ## Block 3
 
 - [Robotics and automatization at construction](block3/robotics_and_automatization_at_construction.md) (4)(2)
-- Intelligent transportations systems (ITS) (2)
+- [Intelligent transportations systems (ITS)](block3/intelligent_transportations_systems.md) (2)
 - Humanoid robots (2)
 - Unmanned areial vechicles (UAVs)/drones (2)
 - Field Robots (2)
