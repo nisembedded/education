@@ -22,7 +22,7 @@ Interdisciplinary training with its focus on Robotics
 - [Intelligent transportations systems (ITS)](block3/intelligent_transportations_systems.md) (2)
 - [Humanoid robots](block3/humanoid_robots.md) (2)
 - [Unmanned areial vechicles (UAVs)/drones](block3/unmanned_areial_vehicles_uavs_drones.md) (2)
-- Field Robots (2)
+- [Field Robots](block3/field_robots.md) (2)
 - Advanced industrial robotics (2)
 - Medical and health robotics (2)
 - Social and domestic robots (2)
