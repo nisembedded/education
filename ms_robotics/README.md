@@ -31,5 +31,5 @@ Interdisciplinary training with its focus on Robotics
 - [Robotic telepresence and teleoperation](block4/robotic_telepresence_and_teleoperation.md) (2)
 - [Handling](block4/handling.md) (2)
 - [Mobile robots](block4/mobile_robots.md) (4)
-- 3D perception (2)
+- [3D perception](block4/3d_perception.md) (2)
 - Robot simulators (2)
