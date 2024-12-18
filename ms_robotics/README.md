@@ -32,4 +32,4 @@ Interdisciplinary training with its focus on Robotics
 - [Handling](block4/handling.md) (2)
 - [Mobile robots](block4/mobile_robots.md) (4)
 - [3D perception](block4/3d_perception.md) (2)
-- Robot simulators (2)
+- [Robot simulators](block4/robot_simulators.md) (2)
