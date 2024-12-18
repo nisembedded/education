@@ -27,7 +27,7 @@ Interdisciplinary training with its focus on Robotics
 
 ## Block 4
 
-- Automatization of industrial systems (4)
+- [Automatization of industrial systems](block4/automatization_of_industrial_sytems.md) (4)
 - Robotic telepresence and teleoperation (2)
 - Handling (2)
 - Mobile robots (4)
