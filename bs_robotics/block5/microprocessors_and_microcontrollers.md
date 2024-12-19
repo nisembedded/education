@@ -25,4 +25,5 @@
 - https://www.carminenoviello.com/mastering-stm32/
   
 ## Additional bibliography
-https://nandland.com/introduction-to-vhdl-for-beginners-with-code-examples/
+- https://nandland.com/introduction-to-vhdl-for-beginners-with-code-examples/
+- https://edaplayground.com/
