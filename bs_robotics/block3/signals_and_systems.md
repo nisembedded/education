@@ -14,9 +14,11 @@
 3. Systems and their properties. LTI systems. Convolution.
 4. Fourier series in continuous and discrete time.
 5. Fourier transform in continuous and discrete time. Fast Fourier transform.
-6. Generalization of the Fourier transform:
+6. STFT(Short Time Fourier Transform)
+7. Generalization of the Fourier transform:
     1. Laplace transform of continuous-time signals and its properties.
     2. Z transform of discrete time signals and its properties.
+8. Basics of Wavelet transformation. Compromise between the time and frequency domain resolution.
 
 ## Basic bibliography
 
