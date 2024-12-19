@@ -21,8 +21,9 @@
 ## Basic bibliography
 
 - Oppenheim, Willsky, Nawab - Signals & Systems
-- Digital Signal Processing using MATLAB
-- Understanding Digital Signal Processing
 - The Scientist and Engineer's Guide to DSP
 
 ## Additional bibliography
+- Digital Signal Processing using MATLAB
+- Understanding Digital Signal Processing
+- https://link.springer.com/book/10.1007/978-1-4612-3632-0
