@@ -22,5 +22,8 @@
 
 - Donald Norris. Programming with STM32: Getting Started with the Nucleo Board and C/C++
 - Hennessy, John L ; Patterson, David A. Computer Architecture: A Quantitative Approach
-
+- https://www.carminenoviello.com/mastering-stm32/
+  
 ## Additional bibliography
+- https://nandland.com/introduction-to-vhdl-for-beginners-with-code-examples/
+- https://edaplayground.com/
