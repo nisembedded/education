@@ -1,6 +1,6 @@
 # Education documentation
 
-Collected every documents that used me for education: books, notes, plans, and others.
+Collected all of the document documents that are used by me for education: books, notes, plans, and others.
 
 ## Education majorities
 
