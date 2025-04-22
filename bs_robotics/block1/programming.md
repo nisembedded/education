@@ -47,7 +47,7 @@ None
     6. Python Expressions
     7. Calling Python from Rust
     8. GIL, mutability and object types
-    9. Prallelism
+    9. Parallelism
     10. Debugging
     11. Advanced Topics
     12. Building and Distribution
