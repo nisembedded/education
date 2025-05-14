@@ -4,6 +4,9 @@
 
 - [Linear algebra](linear_algebra.md)
 - [Calculus](calculus.md)
+- [Physics I](physics_i.md)
+- [Programming](programming.md)
+- [Introduction to matlab](introduction_to_matlab.md)
 
 ## Description of contents
 
