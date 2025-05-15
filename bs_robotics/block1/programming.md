@@ -40,23 +40,24 @@ None
     20. Final Project: Building a Multithread Web Server
 3. Python-Rust interop
     1. Getting Started
-    2. Python Modules
-    3. Python Functions
-    4. Python Classes
-    5. Type Conversions
-    6. Python Expressions
-    7. Calling Python from Rust
-    8. GIL, mutability and object types
-    9. Parallelism
-    10. Debugging
+    2. Using Rust from Python
+    3. Calling Python from Rust
+    4. Type Conversions
+    5. Using async and await
+    6. Parallelism
+    7. Supporting Free-Threaded Python
+    8. Debugging
+    9. Features reference
+    10. Performance
     11. Advanced Topics
     12. Building and Distribution
-    13. PyPy support
+    13. Useful crates
+    14. FAQ and troubleshooting
 
 ## Basic bibliography
 
 - Python Distilled David Beazley
 - The Rust Programming Language Steve Klabnik
-- [PyO3](https://pyo3.rs/v0.10.1/get_started)
+- [PyO3](https://pyo3.rs/v0.25.0/index.html)
 
 ## Additional bibliography
