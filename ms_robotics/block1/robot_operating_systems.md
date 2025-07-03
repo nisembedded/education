@@ -4,16 +4,15 @@
 
 ## Description of contents
 
-1. Introduction to ROS
-2. Communications methods.
-3. Programming nodes.
-4. Topics.
-5. Services.
-6. Timers.
-7. Distributed execution.
+1. Introduction
+2. First Steps with ROS2
+3. First Behavior: Avoiding Obstacles with Finite States Machines
+4. The TF Subsystem
+5. Reactive Behaviors
+6. Programming Robot Behaviors with Behavior Trees
 
 ## Basic bibliography
 
-Learning ROS for Robotics Programming - Second Edition
+A Concise Introduction to Robot Programming with ROS2 - Francisco Martín Rico
 
 ## Additional bibliography

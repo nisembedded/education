@@ -29,7 +29,7 @@
 ## Basic bibliography
 
 - Modern Robotics Mechanics Planning and Contro Kevin M Lynch Frank C Park
-- Learning ROS for Robotics Programming - Second Edition
+- A Concise Introduction to Robot Programming with ROS2 - Francisco Martín Rico
 - Simulation of dynamic systems with MATLAB and Simulink
 
 ## Additional bibliography
